@@ -1,1 +1,2 @@
 # WeatherVue
+WeatherVue is a real-time weather app powered by the OpenWeatherMap API. Users can view forecasts for any location by entering a city name. With a clean, user-friendly interface, it displays key details like temperature, humidity, wind speed, and conditions, helping users plan their day with accurate, reliable updates.
